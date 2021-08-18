@@ -21,21 +21,21 @@ public class JavaProgram {
 		String input = "GeeksforGeeks"; 
 		  
         // getBytes() method to convert string  
-        // into bytes[]...
+        // into bytes[]
         byte [] strAsByteArray = input.getBytes(); 
   
         byte [] result =  
                    new byte [strAsByteArray.length]; 
   
         // Store result in reverse order into the 
-        // result sff byte[] 
+        // result sff byte[].. 
         for (int i = 0; i<strAsByteArray.length; i++) 
             result[i] =  
              strAsByteArray[strAsByteArray.length-i-1]; 
   
         System.out.println(new String(result)); 
         System.out.println(new String(result)); 
-        // Requirement ID : 85
+        // Requirement ID : 56
 		//mnlcd
 	}
 	
