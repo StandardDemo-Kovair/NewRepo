@@ -10,7 +10,7 @@ public class JavaProgram {
 			}
 		}
 		System.out.println("Even Number:");
-	    //comment added on 22092021
+	    //comment added on 28092021
 		for(int i=0;i<a.length;i++){
 			if(a[i]%2==0){
 				System.out.println(a[i]);
