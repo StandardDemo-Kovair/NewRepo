@@ -16,7 +16,7 @@ public class JavaProgram {
 				System.out.println(a[i]);
 			}
 		}
-		//comment224
+	
 		
 		String input = "GeeksforGeeks"; 
 		  
@@ -35,7 +35,7 @@ public class JavaProgram {
   
         System.out.println(new String(result)); 
         System.out.println(new String(result)); 
-        // Requirement ID :2401
+        // Requirement ID :
 	
 	}
 	
