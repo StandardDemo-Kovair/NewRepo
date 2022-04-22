@@ -19,7 +19,7 @@ public class JavaProgram {
 		
 		String input = "GeeksforGeeks"; 
 		  
-        // getBytes() method to convert string Comments added 
+        // getBytes() method to convert string Comments added ..
         // into bytes[]
         byte [] strAsByteArray = input.getBytes(); 
   
